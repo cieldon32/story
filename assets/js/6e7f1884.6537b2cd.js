@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstory=self.webpackChunkstory||[]).push([[6035],{1179:t=>{t.exports=JSON.parse('{"title":"\u540d\u5b57","slug":"/category/\u540d\u5b57","permalink":"/story/docs/category/\u540d\u5b57","navigation":{"next":{"title":"\u5973\u5b69\u540d\u5b57","permalink":"/story/docs/\u540d\u5b57/\u5973\u5b69\u540d\u5b57"}}}')}}]);

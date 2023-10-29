@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkstory=self.webpackChunkstory||[]).push([[2535],{5641:s=>{s.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4ece\u300a\u5c01\u795e\u699c\u300b\u5230\u300a\u897f\u6e38\u8bb0\u300b","permalink":"/story/blog/first-blog-post"}]}')}}]);
